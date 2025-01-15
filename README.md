@@ -1,6 +1,6 @@
-# FTB Quests Optimizer (legacy)
+# FTB Quests Optimizer (legacy - not supported)
 
-This is a repository for outdated versions (MC <1.16.5), to get to the modern one, <a href="https://github.com/bigenergy/ftb-quests-optimizer">click here</a>.<br>
+This is a repository for outdated versions (MC <1.16.5 - not supported), to get to the modern one, <a href="https://github.com/bigenergy/ftb-quests-optimizer">click here</a>.<br>
 
 A simple mod that installs on the server and contains a couple of mixins.
 
